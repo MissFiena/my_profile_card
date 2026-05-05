@@ -1,17 +1,42 @@
-# my_profile_card
+# 📱 My Profile Card
 
-A new Flutter project.
+A Flutter mobile app that displays student personal profile information.
+Built as an assignment for Software Engineering students at **Universiti Pendidikan Sultan Idris (UPSI)**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👤 Student Info
+- **Name** : Shafiena Binti Usri
+- **Student ID** : D20231106426
+- **Faculty** : FKMT, UPSI
+- **Programme** : Software Engineering
+- **Semester** : 6
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
+- 🖼️ Parallax hero background image
+- 👤 Oval profile picture overlapping hero
+- 📋 Personal info card
+- 💬 Auto-rotating quote
+- 📚 Course list — Past / Current / Upcoming
+- 📧 Contact buttons — Email, Phone, GitHub, LinkedIn
+- 🔽 Expandable bio (Read More / Read Less)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+- Flutter — Mobile UI framework
+- Dart — Programming language
+- url_launcher — For contact buttons
+
+---
+
+## 🚀 How to Run
+1. Clone this repo
+2. Run `flutter pub get`
+3. Run `flutter run`
+
+---
+
+*Made with 💕 by Shafiena Binti Usri — UPSI 2026*
