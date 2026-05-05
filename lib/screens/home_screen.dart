@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
   double _scrollOffset = 0;
 
   final List<String> _quotes = [
-    "Always start with Bismillahi Tawakkaltu Ala Allah"
+    "Always start with Bismillahi Tawakkaltu Ala Allah",
     "Every expert was once a beginner.",
     "What will happen, will happen.",
     "For my future, here I am.",
