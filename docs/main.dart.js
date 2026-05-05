@@ -68005,7 +68005,7 @@ bz(){this.cZ()
 this.cJ()
 this.kI()}}
 A.uc.prototype={
-ak(){return new A.JU(A.a0w(null,null),A.c(["Always start with Bismillahi Tawakkaltu Ala AllahEvery expert was once a beginner.","What will happen, will happen.","For my future, here I am."],t.s))}}
+ak(){return new A.JU(A.a0w(null,null),A.c(["Always start with Bismillahi Tawakkaltu Ala Allah","Every expert was once a beginner.","What will happen, will happen.","For my future, here I am."],t.s))}}
 A.JU.prototype={
 ao(){var s=this
 s.aO()
@@ -68039,8 +68039,8 @@ o=A.ei(16)
 r=A.c([new A.d9(0,B.aV,A.ar(15,B.k.v()>>>16&255,B.k.v()>>>8&255,B.k.v()&255),B.i,12)],r)
 n=h.r
 n=A.ex('"'+h.f[n]+'"',new A.co(n,t.f3),g,g,B.NQ)
-m=J.DQ(3,t.l7)
-for(s=h.r,l=0;l<3;++l){k=l===s
+m=J.DQ(4,t.l7)
+for(s=h.r,l=0;l<4;++l){k=l===s
 j=k?14:5
 k=k?B.S:B.zK
 i=new A.aW(4,4)
@@ -68061,7 +68061,7 @@ s.ar(new A.a7j(s))},
 $S:442}
 A.a7j.prototype={
 $0(){var s=this.a
-return s.r=(s.r+1)%3},
+return s.r=(s.r+1)%4},
 $S:0}
 A.a7e.prototype={
 $0(){var s=this.a
