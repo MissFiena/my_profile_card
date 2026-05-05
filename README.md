@@ -33,3 +33,28 @@ Built as an assignment for Software Engineering students at **Universiti Pendidi
 ---
 
 ## 📁 Project Structure
+lib/
+├── main.dart              # App entry point & bottom navigation
+└── screens/
+├── home_screen.dart   # Profile tab
+└── courses_screen.dart # Courses tab
+assets/
+└── images/
+├── hero_bg.jpg        # Hero background photo
+└── profile.jpg        # Profile picture
+
+---
+
+## 🚀 How to Run
+1. Clone this repo
+2. Run `flutter pub get`
+3. Run `flutter run`
+
+---
+
+## 📸 Screenshots
+> *(Add your app screenshots here)*
+
+---
+
+*Made with 💕 by Shafiena Binti Usri — UPSI 2024*
