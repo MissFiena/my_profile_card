@@ -53,8 +53,11 @@ assets/
 ---
 
 ## 📸 Screenshots
-> *(Add your app screenshots here)*
+> <img width="616" height="944" alt="image" src="https://github.com/user-attachments/assets/4a866615-fda9-42f9-9a6e-e34eb70f5142" />
+> <img width="615" height="945" alt="image" src="https://github.com/user-attachments/assets/af61d440-38f1-4511-ad7f-b6a2f9f45627" />
+
+
 
 ---
 
-*Made with 💕 by Shafiena Binti Usri — UPSI 2024*
+*Made with 💕 by Shafiena Binti Usri — UPSI 2026*
